@@ -1,0 +1,23 @@
+{
+  "name": "oefweek5",
+  "version": "1.0.0",
+  "description": "Nieuwsapp oefweek5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "web",
+    "nieuws",
+    "technology",
+    "node",
+    "express"
+  ],
+  "author": "Kimberly Dijkmans",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
