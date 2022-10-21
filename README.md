@@ -6,6 +6,9 @@ This web app, built with Node and Express, displays news articles with the optio
 
 Link to Heroku app: [here](https://dijkmans-kimberly-oefweek5.herokuapp.com)
 
+<img src="https://github.com/kidijkmans/news-app/blob/master/Preview-1.png" width="350"><img src="https://github.com/kidijkmans/news-app/blob/master/Preview-2.png" width="350">
+
+
 ## Getting started
 
 1. Install [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
