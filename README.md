@@ -6,7 +6,7 @@ This web app, built with Node and Express, displays news articles with the optio
 
 Link to Heroku app: [here](https://dijkmans-kimberly-oefweek5.herokuapp.com)
 
-<img src="https://github.com/kidijkmans/news-app/blob/master/Preview-1.png" width="350" style="border: 1px solid black"><img src="https://github.com/kidijkmans/news-app/blob/master/Preview-2.png" width="350" style="border: 1px solid black">
+<img src="https://github.com/kidijkmans/news-app/blob/master/Preview-1.png" width="350"><img src="https://github.com/kidijkmans/news-app/blob/master/Preview-2.png" width="350">
 
 ## Getting started
 
