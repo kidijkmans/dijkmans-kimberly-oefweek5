@@ -1,7 +1,7 @@
 {
-  "name": "oefweek5",
+  "name": "news-app",
   "version": "1.0.0",
-  "description": "Nieuwsapp oefweek5",
+  "description": "Web app that displays news articles",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
