@@ -1,12 +1,12 @@
 # News app
 
-This web app, built with Node and Express, displays news articles with the option to filter and also leave comments using the Disqus implementation. It was created as part of the 'Bachelor in Graphical and Digital Media: Cross-media Design' course at AP University in June 2017.
+This web app, built with Node and Express, displays news articles with the option to filter and also leave comments using the Disqus implementation. 
 
 ## Preview
 
 Link to Heroku app: [here](https://dijkmans-kimberly-oefweek5.herokuapp.com)
 
-<img src="https://github.com/kidijkmans/news-app/blob/master/Preview-1.png" width="350"><img src="https://github.com/kidijkmans/news-app/blob/master/Preview-2.png" width="350">
+<img src="https://github.com/kimberly-0/news-app/blob/master/Preview-1.png" width="350"><img src="https://github.com/kimberly-0/news-app/blob/master/Preview-2.png" width="350">
 
 ## Getting started
 
@@ -17,7 +17,7 @@ Link to Heroku app: [here](https://dijkmans-kimberly-oefweek5.herokuapp.com)
 3. Clone the repository
 
 ```
-git clone https://github.com/kidijkmans/news-app.git
+git clone https://github.com/kimberly-0/news-app.git
 cd news-app
 ```
 
